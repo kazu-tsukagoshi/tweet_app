@@ -1,0 +1,19 @@
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+/Users/USER/.rbenv/versions/2.6.3/bin/ruby -I /Users/USER/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190519-63605-1mpdt1o.rb extconf.rb
+creating Makefile
+
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR=" clean
+
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR="
+compiling bcrypt_ext.c
+compiling crypt.c
+compiling crypt_blowfish.c
+compiling crypt_gensalt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.bundle
+
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bcrypt-3.1.12/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20190519-63605-1ufjaha

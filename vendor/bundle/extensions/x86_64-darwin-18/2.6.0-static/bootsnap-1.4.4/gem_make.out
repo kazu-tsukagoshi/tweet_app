@@ -1,0 +1,15 @@
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/USER/.rbenv/versions/2.6.3/bin/ruby -I /Users/USER/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190518-36492-moyxjm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/USER/app/techpit-tweet/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190518-36492-qtdg37/bootsnap
